@@ -1,8 +1,9 @@
-StardewValley/*
-fish/*
-gcloud/*
-github-copilot/*
-iterm2/*
-/nvim-backup/*
-/nvim-old2/*
-zed/*
+StardewValley/
+fish/
+gcloud/
+github-copilot/
+iterm2/
+nvim-backup/
+nvim-old2/
+zed/
+envman/
