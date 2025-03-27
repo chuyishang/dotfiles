@@ -8,9 +8,7 @@
 
 
 -- [[ Setting options ]]
--- test
--- See `:help vim.opt`
--- For more options, you can see `:help option-list`
+-- See `:help vim.opt` For more options, you can see `:help option-list`
 
 -- [[ Basic Autocommands ]]
 --  See `:help lua-guide-autocommands`
